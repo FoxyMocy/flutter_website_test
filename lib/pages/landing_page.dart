@@ -39,7 +39,7 @@ class _LandingPageState extends State<LandingPage> {
                 color: index == selectedIndex
                     ? Color(0xffFE998D)
                     : Colors.transparent,
-                borderRadius: BorderRadius.circular(20),
+                borderRadius: BorderRadius.circular(18),
               ),
             )
           ],
